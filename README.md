@@ -16,4 +16,4 @@ Feel free to connect with me on LinkedIn or explore my repositories below.
 ## Skills
 - Programming: Python, Bash, Java, C#, C++, SQL, PL/SQL, Dart, HTML, CSS, JS
 - Tools: Git, Firebase, Power BI, Google Sheets, Azure DevOps, Blender
-- Frameworks: Flutter, Unity
+- Frameworks: Flutter, Unity, Discord.py
