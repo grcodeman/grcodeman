@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Cody Thornell, a **Senior** at **Western Michi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codythornell/)
 
-Feel free to connect with me on LinkedIn or explore my repositories below.
+Feel free to connect with me on LinkedIn or explore my public repositories below.
 
 ## About Me
 - 🎓 I'm passionate about software development and cybersecurity.
