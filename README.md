@@ -10,7 +10,7 @@ Feel free to connect with me on LinkedIn or explore my public repositories below
 
 ## About Me
 - 🎓 I'm passionate about software development and business.
-- 🔍 Currently exploring hackathons and compilers.
+- 🔍 Currently participating in hackathons and learning about compilers.
 - 🏀 In my free time, I enjoy watching sports and playing video games.
 
 ## Skills
