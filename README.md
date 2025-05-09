@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-Welcome to my GitHub profile! I’m Cody Thornell, a **Computer Science** graduate of **Western Michigan University**, and I’m currently pursuing my **MBA** at WMU.
+Welcome to my GitHub profile! I’m Cody Thornell, a **CS** graduate of **Western Michigan University**, and I’m currently pursuing my **MBA**.
 
 ---
 
