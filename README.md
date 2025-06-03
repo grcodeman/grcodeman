@@ -28,12 +28,14 @@ Feel free to connect with me on LinkedIn or explore my public repositories below
   />
 </p>
 
-## About Me
-- 🎓 I'm passionate about software development and business.
-- 🔍 Currently participating in hackathons and learning about compilers.
+## ➡️ About Me
+
+- 👋 Hi, I'm Cody! I'm a developer passionate for IT and Business.
+- 🎓 CS + MBA @ Western Michigan University
 - 🏀 In my free time, I enjoy watching sports and playing video games.
 
-## Skills
+## ✅ Languages and Frameworks
+
 - Programming: Python, Bash, Java, C#, C++, SQL, PL/SQL, Dart, HTML, CSS, JS
 - Tools: Git, Github, Firebase, Power BI, Google Sheets, Azure DevOps, WordPress, Blender (Object Modeling/Animating), Davinci Resolve (Video Editor)
 - Frameworks: Flutter, Unity, Discord.py
