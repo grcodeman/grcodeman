@@ -80,3 +80,19 @@ Welcome to my GitHub profile! I’m Cody Thornell, a **CS** graduate of **Wester
 ## 🤝 Connect with me!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codythornell/)
+
+## 🌎 Organizations/Clubs
+
+<div style="display: flex; align-items: center; gap: 1rem;">
+  <a href="https://github.com/Developer-Club-WMU" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/Developer-Club-WMU.png?size=100" alt="Developer Club WMU" width="50" height="50" style="border: none;" />
+  </a>
+  <a href="https://github.com/Hackathon-Team-WMU" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/Hackathon-Team-WMU.png?size=100" alt="Hackathon Team WMU" width="50" height="50" style="border: none;" />
+  </a>
+  <a href="https://github.com/Data-Science-Club-at-WMU" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/Data-Science-Club-at-WMU.png?size=100" alt="Data Science Club at WMU" width="50" height="50" style="border: none;" />
+  </a>
+</div>
+
+
