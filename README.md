@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I’m Cody Thornell, a **CS** graduate of **Wester
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codythornell/)
-
 <div align="center">
   
   ![](https://github.com/grcodeman/stats/blob/master/generated/overview.svg)
@@ -77,3 +75,6 @@ Welcome to my GitHub profile! I’m Cody Thornell, a **CS** graduate of **Wester
   </tr>
 </table>
 
+## 🤝 Connect with me!!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codythornell/)
