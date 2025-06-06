@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m Cody Thornell, a **CS** graduate of **Wester
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=grcodeman&show_icons=true&theme=tokyonight" 
-    alt="Rian's GitHub stats" 
+    alt="Cody's GitHub stats" 
     height="150"
   />
   <img 
