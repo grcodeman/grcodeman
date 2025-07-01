@@ -83,6 +83,12 @@ Welcome to my GitHub profile! I’m Cody Thornell, a **CS** graduate of **Wester
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codythornell/)
 
+## 🏆 Hackathon Wins
+
+- 1st Place - MWC3 2024 Python Challenge
+- 1st Place - HackWMU 24
+- 1st Place - Sprint Dev Minecraft Hackathon
+
 ## 🌎 Organizations/Clubs
 
 <div style="display: flex; align-items: center; gap: 1rem;">
